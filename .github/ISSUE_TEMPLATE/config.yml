@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private or security report
+    url: https://github.com/SalmeInMotion/match-o-matic/security/policy
+    about: Read the private reporting instructions before sharing sensitive information.
